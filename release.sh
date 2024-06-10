@@ -1,0 +1,1 @@
+../Obsidan-Styles/bin/release.sh
